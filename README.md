@@ -18,7 +18,7 @@ Raccolta di esercizi pratici di analisi dati con Python e Pandas sviluppati dura
 - **Boston Housing**: Analisi immobiliare con correlazioni multiple
 - **Multi-table Join**: Unione tabelle dipendenti-territori-vendite
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python 3.x**
 - **Pandas**: Manipolazione e analisi dati
